@@ -1,0 +1,4 @@
+enum ContactFilter {
+  withPhoneNumber,
+  withEMail,
+}
